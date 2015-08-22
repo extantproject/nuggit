@@ -7,6 +7,12 @@ var whitelist = [
 	{ 'name' : 'WebGL', 'uri' : 'http://www.smartjava.org/ltjs/chapter-04/05-mesh-face-material.html' }
 ]
 
+$('#search').click(function() {
+	$.each(whitelist, function( index, value ) {
+		$('#search_results').append('<li>' + value.name + '</li>');
+	});
+});
+
 $('#mario').click(function() {
 	window.open('http://mario5.florian-rappl.de/');
 });
