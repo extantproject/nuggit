@@ -9,7 +9,7 @@ var whitelist = [
 
 $('#search').click(function() {
 	$.each(whitelist, function( index, value ) {
-		$('#search_results').append('<li>' + value.name + '</li>');
+		$('#search_results').append('<li>' + value.name + ' [whitelist & launch ] </li>');
 	});
 });
 
