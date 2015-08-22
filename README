@@ -1,0 +1,57 @@
+ /$$   /$$                               /$$   /$$    
+| $$$ | $$                              |__/  | $$    
+| $$$$| $$ /$$   /$$  /$$$$$$   /$$$$$$  /$$ /$$$$$$  
+| $$ $$ $$| $$  | $$ /$$__  $$ /$$__  $$| $$|_  $$_/  
+| $$  $$$$| $$  | $$| $$  \ $$| $$  \ $$| $$  | $$    
+| $$\  $$$| $$  | $$| $$  | $$| $$  | $$| $$  | $$ /$$
+| $$ \  $$|  $$$$$$/|  $$$$$$$|  $$$$$$$| $$  |  $$$$/
+|__/  \__/ \______/  \____  $$ \____  $$|__/   \___/  
+                     /$$  \ $$ /$$  \ $$              
+                    |  $$$$$$/|  $$$$$$/              
+                     \______/  \______/               
+
+... or how about you and u cutsomters pay nothing for free to execute instructions on your the boxlets?
+
+Welcome to Nuggit.
+
+Our Passion is CodeOps. We dev your codes more than you could imagine. WOW
+
+pull requests are more than very welcommmen. so is forking; fork you on github. this shit here is going to be all MIT license if you don't like it you can forkit -- but any accepted pull requests are assumed to be licensed by u under MIT license. WOW
+
+remeber when the iPhone came out it didn't have an ass store and browswers sucked? nao browsers don't suck; especially this Xmas -- now is the time to fuck off with native mobile apps (and what isn't a mobile app ammirit) and just write Java Scripts once. need a fucking responsive design single page template that auto adjusts to be full screen on all devices.
+
+also encouragable to forget about servers and start thinking decentralized again. stop it already.
+
+make apps so they're a cohesive, self-contained executable file. they can then be served from your SERVER or just copied around. sign your own damn code. curators should start lists and sign code that they've tested for MAL 9000, reliability, fuzzers, and polymorphic test testing. to be clear: it's a whitelist model, but the whitelists should be cultivated by whoever wants to (think EasyList, but for known good). dearest whitelist curators suggest to you to NOT include bullshit, ads, malware, etc. because if you do nobody gunna subscribtion to your list.
+
+icons will actually live on users' home screen and Nuggit won't track what's "installed"; the idea is to start a SHA1 whitelist of apps that aren't MALCODEish -- let there be many curated lists, but the best one will be the default list for this here Nuggit bargin store. users will, of coures, be able to override the whitelist by adding to their whitelist.local
+
+in your app, include "an add to homescreen" widgety reminder like http://cubiq.org/add-to-home-screen *** we gunna need a better one: it should be easy to follow the short list of steps in the direction so muggles can "install" the app on their device
+
+in your app you should also store itself to the HTML5 client-side database
+
+for full stack devop front end back end devlopers wat:
+
+write ONE APP in JavaScript for ALL platforms
+
+if u don't involve the servers then u can distribute as standalone shits -- completely decentralize! people should be able to get your app file and copy it around and host it and torrent it and it still works because no one server; include everything the app needs to run IN the file
+
+use: HTML5, WebGL (((get with the program))), and all the JS frameworks all the time
+
+all apps are 100% HTML5 + JS + CSS -- Flash, Objective C, Swift, Java: pack up your shit and go home. this approach also places zero restrictions on libraries, copypasta code, ... no nannies to flag your shit as "inappropriate", etc.
+
+the idea is Nuggit will provide a auto-fullscreen blank screen template single-page page
+
+target MARKET: all decent devices and browsers i.e., the ones that support WebGL and shit like that -- your basic iOS and Android and laptops that have fancy swipe pads *** someone should make a server Nuggit like apt-get ### they already did it's called npm $$$ oh right
+
+these apps is so popular: how would we know we don't track your shit
+
+additional benefits: JavaScript
+
+point: the "universal" executable is here (JS + HTML5 + CSS) it just needs a searchable list of apps so muggles can install
+
+but how I make money? you no. not by "selling" software -- certainly not by selling software and letting someone else take 30%. get a fucking business model (hint: sales) and stop trying to sell copies of abundant shit. see: http://kk.org/thetechnium/better-than-fre/ 
+
+I mean, this way if you really want to hamstring yourself just put copypasta the Stripe API shits in your Nuggit app and ask people to pay for dirt and light and things like that.
+
+App ideas: emulators, virtualization platforms (bhyve), whole operating systems, all that shitty Objective C you wrote
