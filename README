@@ -24,7 +24,7 @@ also encouragable to forget about servers and start thinking decentralized again
 
 make apps so they're a cohesive, self-contained executable file. they can then be served from your SERVER or just copied around. sign your own damn code. curators should start lists and sign code that they've tested for MAL 9000, reliability, fuzzers, and polymorphic test testing. to be clear: it's a whitelist model, but the whitelists should be cultivated by whoever wants to (think EasyList, but for known good). dearest whitelist curators suggest to you to NOT include bullshit, ads, malware, etc. because if you do nobody gunna subscribtion to your list.
 
-icons will actually live on users' home screen and Nuggit won't track what's "installed"; the idea is to start a SHA1 whitelist of apps that aren't MALCODEish -- let there be many curated lists, but the best one will be the default list for this here Nuggit bargin store. users will, of coures, be able to override the whitelist by adding to their whitelist.local
+icons will actually live on users' home screen and Nuggit won't track what's "installed"; the idea is to start a SHA1 whitelist of apps that aren't MALCODEish -- let there be many curated lists, but the best one will be the default list for this here Nuggit bargin bin. users will, of coures, be able to override the whitelist by adding to their whitelist.local
 
 in your app, include "an add to homescreen" widgety reminder like http://cubiq.org/add-to-home-screen *** we gunna need a better one: it should be easy to follow the short list of steps in the direction so muggles can "install" the app on their device
 
