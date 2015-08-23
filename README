@@ -78,4 +78,6 @@ front-end
 
 back-end
 
-maybe normalize/fullscreen the browser with one full pane of WebGL at 0, 0 and draw everything using WebGL via three.js ... then write GUI library in OpenGL *** like this GUI (top right): https://stemkoski.github.io/Three.js/GUI.html
+maybe normalize/fullscreen the browser with one full pane of WebGL at 0, 0 and draw everything using WebGL via three.js ... then write GUI in OpenGL *** like this GUI: https://stemkoski.github.io/Three.js/GUI.html ### the idea is to draw 2D GUIs in OpenGL; set up this whole single page HTML + CSS + JS fullscreen bit tunnull framebuffer-like direct to the graphics card so that the app interfaces aren't slow and shitty and webby
+
+no scaling, no zoomin, and fast/responsive graphics... just like native apps
