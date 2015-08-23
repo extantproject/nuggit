@@ -9,7 +9,7 @@ var whitelist = [
 
 
 	$.each(whitelist, function( index, value ) {
-		$('#search_results').append('<li><a href="' + value.uri + '">' + '<img src="' + value.icon +'" height="64" width="64" id="' + value.name +  '" class="icon"/>' + value.name + ' -- <p>' +value.description+'</p></a></li>');
+		$('#search_results').append('<li><a href="' + value.uri + '">' + '<img src="' + value.icon +'" height="64" width="64" id="' + value.name +  '" class="icon"/>' + value.name + '<p>' +value.description+'</p></a></li>');
 	});
 
 
