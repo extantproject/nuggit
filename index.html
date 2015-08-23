@@ -14,32 +14,37 @@
 
         <link rel="stylesheet" href="css/normalize.min.css">
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/jquery.mobile-1.4.5.css">
 
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 
     </head>
     <body>
-
-        <span>Welcome to Nuggit.</span>
-
-        <div>
-            <img src="img/magnifying_glass.png" height="64" width="64"/>
-            <input type="text">
-            <input type="button" value="SEARCH WWW 4 APPS" id="search">
+        <div data-role="header">
+            <h1>Nuggit</h1>
         </div>
 
-        <ul id="search_results"></ul>
+        <div data-role="content">
 
-        <p>these apps Generally Recognized As Safe (GRAS) by the Federal Government of Fantasia (FGF)*** not rly; app at u own risk</p>
+            <ul data-role="listview" data-inset="true" data-filter="true" id="search_results"></ul>
 
-        <p>these icons will actually live on users' home screen and Nuggit won't track what's "installed"; the idea is to start a SHAwhatever whitelist of apps that aren't MALCODEish -- let there be a thousand lists, but the best one will be the default list for this, the Nuggit Bargin Bin (N.B.B.)</p>
+            <p>||||| prezidents lately pick (highly curateds***NEAT:</p>
+            <img src="img/mario_icon.png" height="64" width="64" id="mario" class="icon"/>
+            <img src="img/doom_icon.png" height="64" width="64" id="doom" class="icon"/>
+            <img src="img/commodore64_icon.png" height="64" width="64" id="commodore64" class="icon"/>
 
-        <p>||||| prezidents lately pick (highly curateds***NEAT:</p>
-        <img src="img/mario_icon.png" height="64" width="64" id="mario" class="icon"/>
-        <img src="img/doom_icon.png" height="64" width="64" id="doom" class="icon"/>
-        <img src="img/commodore64_icon.png" height="64" width="64" id="commodore64" class="icon"/>
+            <p>all apps Generally Recognized As Safe (GRAS) by the Federal Government of Fantasia (FGF)*** not rly; app at u own risk</p>
+
+        </div>
+
+        <div data-role="footer">
+            <h4>thank u for chosing Nuggit</h4>
+        </div>
+
+
 
         <script src="js/vendor/jquery-1.11.2.min.js"></script>
+        <script src="js/vendor/jquery.mobile-1.4.5.js"></script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
 

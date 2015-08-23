@@ -7,11 +7,11 @@ var whitelist = [
 	{ 'name' : 'WebGL', 'uri' : 'http://www.smartjava.org/ltjs/chapter-04/05-mesh-face-material.html', 'description': 'just a simple demo where you can do the OpenGL at 60 FPS', 'icon' : 'http://www.ipader.it/wp-content/uploads/2010/06/3dcamerastudio.jpg'}
 ]
 
-$('#search').click(function() {
+
 	$.each(whitelist, function( index, value ) {
-		$('#search_results').append('<li><a href="' + value.uri + '">' + '<img src="' + value.icon +'" height="64" width="64" id="' + value.name +  '" class="icon"/>' + value.name + '</a> -- ' + value.description + ' </li>');
+		$('#search_results').append('<li><a href="' + value.uri + '">' + '<img src="' + value.icon +'" height="64" width="64" id="' + value.name +  '" class="icon"/>' + value.name + ' -- ' +value.description+'</a></li>');
 	});
-});
+
 
 $('#mario').click(function() {
 	window.open('http://mario5.florian-rappl.de/');
