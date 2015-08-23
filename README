@@ -59,3 +59,7 @@ but how I make money? you no. not by "selling" software -- certainly not by sell
 I mean, this way if you really want to hamstring yourself just put copypasta the Stripe API shits in your Nuggit app and ask people to pay for dirt and light and things like that.
 
 App ideas: emulators, virtualization platforms (bhyve), whole operating systems (plz to not just BusyBox), all that shitty Objective C you wrote
+
+Things to expand upon: Unicorns; business plan; FAQ; no minified code (all will be minified layter); need framebuffer or X or some kind of video shits to deal with $ALL_SCREENS; gunna need a project: name (DONE), theme song, symbol, aminal, tagline, watermark, coat of arms, logo; also need sales, marketing, accounting, legal, official email addresses, letterhead, business cards
+
+should probably think about scaling up before we launch; dont' want to overengineer it
