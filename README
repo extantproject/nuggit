@@ -24,7 +24,7 @@ remeber when the iPhone came out it didn't have an ass store and browswers sucke
 
 also encouragable to forget about servers and start thinking decentralized again. stop it already.
 
-make apps so they're a cohesive, self-contained executable file. they can then be served from your SERVER or just copied around. sign your own damn code. curators should start lists and sign code that they've tested for MAL 9000, reliability, fuzzers, and polymorphic test testing. to be clear: it's a whitelist model, but the whitelists should be cultivated by whoever wants to (think EasyList, but for known good). dearest whitelist curators suggest to you to NOT include bullshit, ads, malware, etc. because if you do nobody gunna subscribtion to your list.
+make apps so they're a cohesive, self-contained executable file. they can then be served from your SERVER or just copied around. sign your own damn code. curators should start lists and sign code that they've skimmed for MAL 9000, reliability, fuzzers, and polymorphic test testing. to be clear: it's a whitelist model, but the whitelists should be cultivated by whoever wants to (think EasyList, but for known good). dearest whitelist curators suggest to you to NOT include bullshit, ads, malware, etc. because if you do nobody gunna subscribtion to your list.
 
 icons will actually live on users' home screen and Nuggit won't track what's "installed"; the idea is to start a SHAwhatever whitelist of apps that aren't MALCODEish -- let there be many curated lists, but the best one will be the default list for this here Nuggit bargin bin. users will, of coures, be able to override the whitelist by adding to their whitelist.local
 
@@ -58,8 +58,22 @@ but how I make money? you no. not by "selling" software -- certainly not by sell
 
 I mean, this way if you really want to hamstring yourself just put copypasta the Stripe API shits in your Nuggit app and ask people to pay for dirt and light and things like that.
 
-App ideas: emulators, virtualization platforms (bhyve), whole operating systems (plz to not just BusyBox), all that shitty Objective C you wrote
+App ideas: emulators, virtualization platforms (bhyve), whole operating systems (plz to not just BusyBox), all that shitty Objective C you wrote, https://github.com/creationix/js-git
 
 Things to expand upon: Unicorns; business plan; FAQ; no minified code (all will be minified layter); need framebuffer or X or some kind of video shits to deal with $ALL_SCREENS; gunna need a project: name (DONE), theme song, symbol, aminal, tagline, watermark, coat of arms, logo; also need sales, marketing, accounting, legal, official email addresses, letterhead, business cards
 
 should probably think about scaling up before we launch; dont' want to overengineer it
+
+"Taking advantage of cool new web technologies is great fun, until you have to support browsers that lag behind." *** Nuggit isn't going to do that
+
+best practices
+
+best of breed
+
+documentation
+
+G-Units
+
+front-end
+
+back-end
